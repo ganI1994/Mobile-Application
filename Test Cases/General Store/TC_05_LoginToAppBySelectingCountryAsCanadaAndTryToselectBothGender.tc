@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_05_LoginToAppBySelectingCountryAsCanadaAndTryToselectBothGender</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f89b5722-afe9-46e5-abcf-508ead386e68</testCaseGuid>
+</TestCaseEntity>

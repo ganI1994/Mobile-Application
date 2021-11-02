@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_01_LoginToAppBySelectingAfghanistanAsCountryAndWithoutEnteringName</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>645b3286-d2ea-4a25-96d6-c47200ed2d7e</testCaseGuid>
+</TestCaseEntity>

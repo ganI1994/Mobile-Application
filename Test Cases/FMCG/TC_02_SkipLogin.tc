@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_02_SkipLogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf5b6370-be80-42a8-8938-f030a291799c</testCaseGuid>
+</TestCaseEntity>
